@@ -1,4 +1,4 @@
-# cra-redux-saga-template
+# single-perceptron
 
 This project is an [Create React App ](https://github.com/facebookincubator/create-react-app) project specifically designed to demonstrate the power of a single Perceptron in Machine Learning.
 
