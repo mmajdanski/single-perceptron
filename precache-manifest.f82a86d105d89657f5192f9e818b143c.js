@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/single-perceptron/static/css/main.c0a19a9d.chunk.css"
   },
   {
-    "revision": "40b76bce9991c96dad309fe6d533b1b7",
+    "revision": "ad9b66a752a8947d7d392d1ff4c0bf9e",
     "url": "/single-perceptron/index.html"
   }
 ];
